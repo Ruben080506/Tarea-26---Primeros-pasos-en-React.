@@ -1,3 +1,4 @@
 Calificación: 3.7/4
 
 Falta Bibliografía.
+Sale error al aplicar git clone al proyecto.
